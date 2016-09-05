@@ -1,0 +1,27 @@
+{
+  "name": "ATI",
+  "authors": [
+    "Laurens De Cock <laurens.decock@student.odisee.be>"
+  ],
+  "description": "All Tiles Import",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ATI"
+  ],
+  "license": "MIT",
+  "homepage": "www.alltilesimport.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery-toast-plugin": "kamranahmedse/jquery-toast-plugin"
+  }
+}

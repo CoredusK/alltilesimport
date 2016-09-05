@@ -1,0 +1,54 @@
+#logo{
+	display:none;
+}
+body{
+	background-image:none;
+	background-color:#FFF;
+	margin:0px;
+
+	padding:0;
+	border:0;
+}
+
+#main{
+	position:relative;
+	float:none;
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+#bottombar,#menu{
+	display:none;
+}
+
+#container{
+	position:relative;
+}
+
+.maindiv, .doublecolumn, .thirdcolumn, .fullwidth, .maindiv:nth-child(3n-1), .maindiv:nth-child(3n){
+	border:0;
+	min-height:220pt;
+}	
+
+.container{
+	position:relative;
+	width:920px;
+	
+	margin-left:auto;
+	margin-right:auto;
+	
+	text-align: left;
+}
+
+
+select{
+	display:block;
+}
+
+option{
+	min-width:100px;
+}
+
+
+.pagebreak  { display: block; page-break-after: always; height:20px; }

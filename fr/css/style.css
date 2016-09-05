@@ -1,0 +1,355 @@
+#logo {
+	position:absolute;
+	width:250px;
+	height:80px;
+	top:10px;
+	
+	opacity:0.9;
+	filter:alpha(opacity=90);
+}
+
+#menu{
+	position:absolute;
+	width:252px;
+	top:80px;
+	
+	padding: 0;
+	margin: 0;
+	
+	background-color:#FFF;
+	opacity:0.8;
+	filter:alpha(opacity=80); 
+	
+	font-weight:bold;
+	font-size:11px;
+}
+#menu a{
+	text-decoration:none;
+	color:#222;
+}
+.buttonsubdiv{
+	position:fixed;
+}
+
+.buttonsub{
+	margin-left:20px;
+	margin-bottom: -3px;
+	background-image: url(../assets/button_g.jpg);
+	width:150px;
+	height:20px;
+	background-size: 150px 20px;
+	background-repeat:no-repeat;
+	padding:2px;
+}
+
+#main{
+	position:absolute;
+	margin-left:260px;
+
+	top:10px;
+	
+	width:660px;
+
+	background-color:#FFF;
+	border: 2px outset #78AF2C;
+	
+	opacity:0.9;
+	filter:alpha(opacity=90);
+}
+
+.green{
+	color:#78AF2C;
+}
+.maindiv{
+	min-height:250px;
+	padding:10px;
+	float:left;
+	width:200px;
+	margin-bottom:20px;
+	
+
+}
+.maindiv:nth-child(3n-1){
+	border-left: 1px solid #78AF2C;
+	
+}
+.maindiv:nth-child(3n){
+	width:190px;
+	border-left: 1px solid #78AF2C;
+	
+}
+
+
+.maindiv h1, .doublecolumn h1, .thirdcolumn h1{
+	font-size:13px;
+	font-weight:bold;
+	margin-bottom:10px;
+
+}
+.maindiv h2{
+	font-size:12px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+
+.maindiv .sub, .doublecolumn .sub{
+	color:#16A0FC;
+	text-decoration:underline;
+}
+
+.maindiv .sub2{
+	color:#78AF2C;
+	text-decoration:underline;
+}
+
+.maindiv img, .doublecolumn img{
+	width:200px;
+	margin-bottom:10px;
+	
+}
+.maindiv .alt, .doublecolumn .alt, .fullwidth .alt{
+	width:120px;
+}
+.maindiv .big, .doublecolumn .big{
+	width:300px;
+}
+.maindivreset{
+	clear:both;
+	margin-bottom:10px;
+}
+
+.bigimg{
+	width:500px;
+	padding:20px;
+	padding-bottom:50px;
+	margin-left:50px;
+	
+}
+
+.fullwidth{
+	width:100%;
+	min-height:300px;
+	padding:10px;
+}
+
+
+/** col span 2/3 - 1/3 **/
+.doublecolumn{
+	float:left;
+	padding:10px;
+	width:440px;
+	//border-right:1px solid #78AF2C;
+}
+.thirdcolumn{
+
+	padding:10px;
+	float:left;
+}
+.thirdcolumn img{
+	width:175px;
+	margin-bottom:10px;
+}
+
+.fullwidth{
+	width:100%;
+	float:left;
+}
+
+
+#bottombar{
+
+	position:absolute;
+	bottom:-30px;
+	
+	left:20px;
+	
+	width:336px;
+	height:40px;
+	background-color:#FFF;
+	
+	/*border: 1px solid #78AF2C;*/
+	
+	
+}
+.buttonbottom, .buttonbottom a{	
+	float:left;
+	color:#000;
+	font-weight:bold;
+	text-decoration:none;
+	width:112px;
+	height:40px;
+	display:block;
+	background-image: url(../assets/button_bottom.jpg);
+	background-repeat:no-repeat;
+	padding-top:7px;
+	text-align:center;
+}
+
+.buttonbottomb{
+	float:left;
+	color:#000;
+	font-weight:bold;
+	text-decoration:none;
+	width:112px;
+	height:40px;
+	display:block;
+	background-image:url(../assets/button_buttom_b.jpg);
+	background-repeat:no-repeat;
+	padding-top:7px;
+	text-align:center;
+
+}
+
+
+
+/* Buttons in menu */
+	
+.buttonb, .buttonbsel{
+	background-image: url(../assets/button_b.jpg);
+	background-repeat:no-repeat;
+    background-size:252px 80%;
+    padding:5px;
+	padding-left:10px;
+    width:250px;
+    height:25px;
+    margin-bottom:-10px;
+}
+.buttonbsel{
+	background-image: url(../assets/button_b_sel.jpg);
+
+}
+.buttono, .buttonosel{
+	background-image: url(../assets/button_o.jpg);
+	background-repeat:no-repeat;
+    background-size:252px 80%;
+    padding:5px;
+	padding-left:10px;
+    width:250px;
+    height:25px;
+    margin-bottom:-10px;
+}
+.buttonosel{
+	background-image: url(../assets/button_o_sel.jpg);
+
+}
+.buttong, .buttongsel, .buttongfoto{
+    background-image: url(../assets/button_g.jpg);
+    background-repeat:no-repeat;
+    background-size:252px 80%;
+    padding:5px;
+	padding-left:10px;
+    width:250px;
+    height:25px;
+    margin-bottom:-10px;
+   
+
+}
+a .buttongfoto{
+	text-decoration:none;
+	color:#222;
+	margin-bottom:0px;
+
+}
+.buttongsel{
+	background-image: url(../assets/button_g_sel.jpg);
+}
+.space{
+	margin-bottom:20px;
+	
+}
+
+a .buttong:hover, a .buttongfoto:hover{	background-image: url(../assets/button_g_sel.jpg);	}
+a .buttono:hover{	background-image: url(../assets/button_o_sel.jpg);	}
+a .buttonb:hover{	background-image: url(../assets/button_b_sel.jpg);	}
+
+/* Big buttons, foto contact */
+
+.buttonbig, .buttonbigalt{
+	width:110px;
+	text-align:center;
+	margin-bottom:10px;
+
+}
+
+.buttonbig{
+	
+	float:left;
+	margin-left:10px;
+	height:40px;
+	line-height:40px;
+	background-image:url(../assets/button_big.jpg);
+
+}
+
+.buttonbigalt{
+	margin-left:70px;
+	height:70px;
+	background-image:url(../assets/button_big_pictures.jpg);
+}
+
+#fotoalbum{
+	position:absolute;
+	padding-left:0px;
+	padding-right:0px;
+
+	top:80px;
+	
+	width:920px;
+
+	background-color:#FFF;
+	border: 2px outset #78AF2C;
+	
+	opacity:0.9;
+	filter:alpha(opacity=90);
+}
+
+#fotoalbum img{
+	width:420px;
+	padding:0px 15px 20px 15px;	
+}
+
+.alta{
+	height:315px;
+
+}
+
+#fotoalbum a{
+	text-decoration:none;
+	color:#000;
+}
+
+a small{
+	text-decoration:none;
+	color:#000;
+}
+.welcome{
+	position:relative;
+	margin-left:100px;
+	margin-bottom:10px;
+	padding:10px;
+	top:50px;
+	
+	text-align:center;
+	min-height:60px;
+	
+	width:660px;
+
+	background-color:#FFF;
+	border: 2px outset #78AF2C;
+	
+	opacity:0.8;
+	filter:alpha(opacity=80);
+}
+.welcome .full{
+	width:100%;
+}
+
+.table{
+	text-align:right;
+}
+.table td{
+	padding:5px;
+}
+
+
+.pagebreak  { display: none; }
