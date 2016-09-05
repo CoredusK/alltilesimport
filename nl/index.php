@@ -42,10 +42,11 @@
 	<div class="kaderke"><i>Bent u op zoek naar dat net ietsje anders? Dan is dit het juiste adres voor exclusieve natuursteen!</i></div>
 	<br/>
 	<br/>
-	AllTilesImport is een groothandel in natuursteen.<br/>
+	All Tiles Import is een groothandel in natuursteen.<br/>
 	Wij richten ons enkel tot de handelaar in bouwmaterialen en/of tegels.<br/>
 	Over een toonzaal beschikken is daarom een absolute must.<br/>
 	<br/>
+    AS-Tegel heeft in het jaar 2010 All Tiles Import opgericht, voor uitsluitende verkoop naar handelaars in bouwmaterialen. 
 	Wij zijn in 2011 uitgebreid naar een opslagruimte van 34000m2! <br/>
 	<br/>
 	<a href="a_aankoopvoorwaarden.php">Klik hier voor onze aankoopvoorwaarden.</a><br/>
