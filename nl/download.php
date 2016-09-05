@@ -80,57 +80,7 @@ else $errmsg = "Gelieve alle velden in te vullen";
 			<?php if($_SESSION["toegang"]){
 			echo 'U bent ingelogd. Hieronder vindt u onze prijslijsten.<br/><br/>
 
-			<iframe src="https://docs.google.com/spreadsheets/d/1_kmnN_lrdM553vP2NnRLuT_EfF2YsSswpWq8l7rLgZM/pubhtml?gid=2011907193&amp;single=true&amp;widget=true&amp;headers=false" height="700" width="620"></iframe>
-
-			<div></div><div class="maindiv">
-			<h1>ATI Prijslijst</h1>
-			<a href="assets/download/ATI_prijslijst.pdf" rel="nofollow" target="_blank">Klik hier om onze prijslijst
-			te downloaden!</a><br/><br/>
-
-			<small>Hier vindt u al onze producten, van tegels tot palisaden, borduren en mozaïeken!</small>
-			<br/><br/><br/><br/>
-			<a href="images/carius/carius_black.jpg"><img src="images/carius/carius_black.jpg"/></a>
-			</div>
-			
-			<div class="maindiv">
-			<h1>Sierkeien, Schanskorven & Siergrind</h1>
-			<a href="assets/download/ATI_prijslijst_sierkeien.pdf" target="_blank">Klik hier om de prijslijst
-			van onze korven te downloaden!</a><br/><br/>
-			<small>Voor meer informatie over onze sierkeien, <a href="sierkeien.php">klik hier</a>!</small><br/>
-			<small>Voor meer informatie over onze schanskorven, <a href="schanskorven.php">klik hier</a>!</small>
-			<br/><br/>
-			<a href="images/sierkeien/bruin_grijze_zeekei.jpg"><img src="images/sierkeien/bruin_grijze_zeekei.jpg"/></a>
-			</div>
-			
-			<div class="maindiv">
-			<h1>Prijzen Zwembadboorden</h1>
-			<a href="assets/download/ATI_prijslijst_zwembadboorden.pdf" target="_blank">Klik hier om de prijslijst
-			van onze zwembadboorden te downloaden!</a><br/><br/>
-			<small><a href="zwembadboorden.php">Klik hier</a> om naar de pagina van zwembadboorden te gaan.</small><br/><br/>
-			<br/><br/>
-			<img src="images/zwembadboorden/tegel3.jpg"/><br/>
-			</div>
-			
-			<div class="maindiv">
-			<h1>Prijzen ATI Voegmortel</h1>
-			<table class="table" border="1">
-			<tr><td><small>ATI Voegmortel neutraal</small></td><td>€27.90</td></tr>
-			<tr><td><small>ATI Voegmortel standaard grijs</small></td><td>€30.96</td></tr>
-			<tr><td><small>ATI Voegmortel basalt</small></td><td>€29.41</td></tr>
-			</table>
-			<small>Prijzen per emmer van 15kg</small><br/><br/>
-			<img src="images/voeg_lijm/voeg_1.jpg"/>
-			</div>
-			
-			<div class="maindiv" >
-			<h1>Prijzen ATI Lijmkit</h1>
-			<table class="table" border="1">
-			<tr><td>1 doos</td><td>€4.75 / tube</td></tr>
-			<tr><td>10 dozen</td><td>€4.58 / tube</td></tr>
-			<tr><td>pallet</td><td>€4.40 / tube</td></tr>
-			</table><br/>
-			<img src="images/voeg_lijm/lijmkit.jpg" class="alt"/><br/>
-			</div>
+			<iframe src="https://docs.google.com/spreadsheets/d/1_kmnN_lrdM553vP2NnRLuT_EfF2YsSswpWq8l7rLgZM/pubhtml?widget=true&amp;headers=false" width="620" height="1500"></iframe>
 			
 			';
 			}

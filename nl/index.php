@@ -36,8 +36,6 @@
 
 	<br/>
     	
-    <script type='text/javascript'>alert("Onze magazijnen zijn gesloten van 18 Juli tot en met 12 Augustus. Tussen 18 & 22 Juli is er permanentie voorzien en kunnen bestellingen via mail doorgegeven worden. Na verwittiging kan de bestelling vervolgens ook afgehaald worden na bevestiging.");</script>
-
 	Welkom op de website van <span class="green">AllTilesImport</span>!<br/>
 
 	<br/>

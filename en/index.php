@@ -24,7 +24,7 @@
 		<?php $page='home'; include('includes/menu.php'); ?>
 		
 	<div id="main">
-	      <script type='text/javascript'>alert("Our warehouses are closed from 18 Juli until 12 August! Between 18 and 22 Juli there's a permanent service and orders will be handled by mail. Ordes can be thusly retrieved after confirmation.");</script>
+	     
 	<div class="doublecolumn">
 	    
 	    

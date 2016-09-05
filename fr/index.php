@@ -24,8 +24,7 @@
 		<?php $page='home'; include('includes/menu.php'); ?>
 		
 	<div id="main">
-	    
-	     <script type='text/javascript'>alert("Notre magasins sont fermé du 18 Juillet au 12 Août !");</script>
+	   
 	<div class="doublecolumn">
 	<h1>Bienvenue!</h1>
 	Ce site s'adresse uniquement aux négociants de matériaux de constructon et carrelages.<br/>
