@@ -35,7 +35,10 @@
 	<img src="images/varia/hoofd.jpg" style="width:600px; margin-left:20px;" />	
 
 	<br/>
-    	
+   
+   	<div class="kaderke">
+   		Onze magazijnen zijn gesloten van 31/10/2016 t.e.m 4/11/2016
+		</div>	
 	Welkom op de website van <span class="green">AllTilesImport</span>!<br/>
 
 	<br/>
